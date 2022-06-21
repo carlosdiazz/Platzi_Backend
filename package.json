@@ -1,5 +1,27 @@
 {
+  "name": "platzi_backend",
+  "version": "1.0.0",
+  "description": "Pruebas del Curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdiazz/Platzi_Backend.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Carlos Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdiazz/Platzi_Backend/issues"
+  },
+  "homepage": "https://github.com/carlosdiazz/Platzi_Backend#readme",
   "dependencies": {
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16"
   }
 }
