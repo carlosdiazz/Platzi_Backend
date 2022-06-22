@@ -21,7 +21,11 @@
   },
   "homepage": "https://github.com/carlosdiazz/Platzi_Backend#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^16.0.1",
-    "nodemon": "^2.0.16"
+    "is-odd": "^3.0.1",
+    "moment": "^2.29.3",
+    "nodemon": "^1.19.4",
+    "sharp": "^0.30.6"
   }
 }
